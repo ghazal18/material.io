@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="content_description_end_icon">content_description_end_icon</string>
+    <string name="helper_text">this is text helper</string>
+</resources>
